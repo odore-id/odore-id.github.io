@@ -413,6 +413,12 @@ ul, ol, li {
 	padding: 60px 0 60px;
 }
 
+.intro23 {
+	background: url('/images/bg putih2.png');
+	background-size: cover;
+	padding: 60px 0 60px;
+}
+
 .intro1 h2 {
 	color: #fff;
 	font-size: 60px;
@@ -1287,6 +1293,19 @@ margin-bottom: 5px;
 
 .about-inlinex h3 {
 	color: white;
+	margin-bottom: 20px;
+	font-size: 60px;
+	line-height: 62px;
+	font-weight: 900;
+}
+.vid-mask {
+    border-radius: 50px 10	px; 
+	width: 900px;
+	height: 550px;
+    overflow: hidden; 
+}
+.about-inlinez h3 {
+	color: #561b1d;
 	margin-bottom: 20px;
 	font-size: 60px;
 	line-height: 62px;
